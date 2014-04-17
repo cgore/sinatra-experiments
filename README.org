@@ -1,5 +1,8 @@
 These are my experiments with the [[https://github.com/sinatra/sinatra][Sinatra]] web framework.
 
+Useful links:
+- [[http://joeyates.info/2010/04/07/a-beginners-sinatra-tutorial/][A Beginner's Sinatra Tutorial (Joe Yates)]]
+
 * 01-hello-world
 
 - gem install sinatra
