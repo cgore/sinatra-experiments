@@ -1,0 +1,8 @@
+These are my experiments with the [[https://github.com/sinatra/sinatra][Sinatra]] web framework.
+
+* 01-hello-world
+
+- gem install sinatra
+- cd 01-hello-world
+- ./hello-world
+- Browse to [[http://localhost:4567]] and enjoy!
